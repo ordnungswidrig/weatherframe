@@ -1,0 +1,3 @@
+[submodule "lib/DoubleResetDetector"]
+	path = lib/DoubleResetDetector
+	url = https://github.com/datacute/DoubleResetDetector
