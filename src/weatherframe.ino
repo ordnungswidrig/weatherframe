@@ -35,7 +35,7 @@ DoubleResetDetector drd(DRD_TIMEOUT, DRD_ADDRESS);
 
 // Neopixel data pin
 #define NEOPIN            D1
-#define NEOCONFIG         NEO_RGB + NEO_KHZ800
+#define NEOCONFIG         NEO_GRB + NEO_KHZ800
 // How many NeoPixels are attached to the Arduino?
 #define NUMPIXELS      4
 
