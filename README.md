@@ -2,6 +2,9 @@
 
 Display weather forecase on neopixels in a frame
 
+![A weatherframe](weatherframe.jpg)
+(LEDs are hard to photograph)
+
 Adopted from [Becky Sterns Instructions](https://www.instructables.com/id/WiFi-Weather-Display-With-ESP8266)
 
 This runs on a wemos D1_mini, Nodemcu or compatible ESP8266 board. By default the
